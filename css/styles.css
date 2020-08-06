@@ -1,0 +1,16 @@
+.jumbotron {
+ border: 1px solid lightgray;
+}
+.welcome {
+text-align: center;
+}
+.container{
+  border: 1px solid gray;
+}
+img{
+  width: 60px;
+  float: left;
+}
+.custom-jumbo{
+  background-color: aqua;
+}
