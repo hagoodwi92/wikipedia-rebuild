@@ -14,3 +14,9 @@ img{
 .custom-jumbo{
   background-color: aqua;
 }
+.custom-jumbo2{
+  background-color: lightblue;
+}
+.col-6{
+  border: 1px solid gray;
+}
